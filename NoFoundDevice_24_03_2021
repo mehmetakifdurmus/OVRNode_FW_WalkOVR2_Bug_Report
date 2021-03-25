@@ -1,0 +1,33 @@
+I (43123) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43133) BLE: notify euler
+I (43133) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43143) BLE: notify euler
+I (43143) BLE: notify euler
+I (43143) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43153) BLE: notify euler
+I (43163) BLE: notify euler
+I (43153) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43163) BLE: notify euler
+I (43173) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43173) BLE: notify euler
+I (43183) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43183) BLE: notify euler
+I (43193) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43193) BLE: notify euler
+I (43203) BLE: notify euler
+E (43203) BT_L2CAP: l2ble_update_att_acl_pkt_num not found p_tcb
+I (43203) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43213) BLE: notify euler
+E (43213) BT_APPL: Unknown connection ID: 3 fail sending notification
+I (43213) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+E (43223) BT_L2CAP: l2ble_update_att_acl_pkt_num not found p_tcb
+I (43243) BLE: notify euler
+E (43243) BT_APPL: Unknown connection ID: 3 fail sending notification
+E (43253) BT_APPL: Unknown connection ID: 3 fail sending notification
+E (43243) BT_L2CAP: l2ble_update_att_acl_pkt_num not found p_tcb
+I (43243) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (43263) BLE: notify euler
+I (43273) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 19
+I (43273) GATT Server: notify/indicate disable
+I (43283) BLE: notify event disable
+I (43283) BLE: notify euler
